@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # पावती (Pavti): restaurant billing (React + TypeScript)
 
 Same folder structure as the Health 360 frontend, with our own design (no MatDash).
@@ -52,3 +53,6 @@ the role cannot open. The backend must check the same rules again on every call
 1. Build the API with the urls in `src/services/*Service.ts` (POST, `{ Success, StatusCode, Message, Data }`).
 2. Create `.env` with `VITE_USE_MOCK_API=false` and `VITE_API_BASE_URL=https://your-server/api`.
 3. Login must return `{ accessToken, user, mustChangePassword }` (`types/auth.ts`).
+=======
+# BillingSystem
+>>>>>>> ed7be1aaeb68fe7dfb4b204f0c50047a363048b6
